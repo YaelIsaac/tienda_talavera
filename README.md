@@ -60,16 +60,16 @@ Pruebas: catálogo con filtros y búsqueda, carrito que persiste y muestra error
 
 ### Catálogo
 
-<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30" src="https://github.com/user-attachments/assets/3e5b645b-c065-451f-b862-bb07a53744c1" />
+<img width="317" height="650" alt="WhatsApp Image 2026-11-20 at 12 45 30" src="https://github.com/user-attachments/assets/3e5b645b-c065-451f-b862-bb07a53744c1" />
 
 ### Ver en tu espacio (modelo 3D / realidad aumentada)
 
-<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30 (1)" src="https://github.com/user-attachments/assets/59b485dd-ed69-4957-aa0e-cb52ee6e2f76" />
+<img width="317" height="650" alt="WhatsApp Image 2026-11-20 at 12 45 30 (1)" src="https://github.com/user-attachments/assets/59b485dd-ed69-4957-aa0e-cb52ee6e2f76" />
 
 ### Carrito con cupón y envío
 
-<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30 (2)" src="https://github.com/user-attachments/assets/6de7eee6-1511-4e3a-9936-7054c49b0ace" />
+<img width="317" height="650" alt="WhatsApp Image 2026-11-20 at 12 45 30 (2)" src="https://github.com/user-attachments/assets/6de7eee6-1511-4e3a-9936-7054c49b0ace" />
 
 ### Pago exitoso
 
-<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30 (3)" src="https://github.com/user-attachments/assets/bb182323-b7d4-4342-aab8-0895bc938fe3" />
+<img width="317" height="650" alt="WhatsApp Image 2026-11-20 at 12 45 30 (3)" src="https://github.com/user-attachments/assets/bb182323-b7d4-4342-aab8-0895bc938fe3" />
