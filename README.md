@@ -12,7 +12,7 @@ Tienda móvil de artesanías de Dolores Hidalgo (talavera, dulces, textiles y de
 
 ## Estructura del proyecto
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="85" height="269" alt="image" src="https://github.com/user-attachments/assets/a8c0511b-49d7-4da2-9e72-13e0c09afc0c" />
 
 ## Pruebas de casos (éxito y fallo)
 
@@ -22,11 +22,11 @@ Pruebas: dinero (formato, IVA incluido y redondeo), producto (modelo 3D solo por
 
 ### Éxito (todas en verde)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="402" height="439" alt="image" src="https://github.com/user-attachments/assets/1f0568bd-88c8-42e1-b550-a7942fab51e3" />
 
 ### Fallo (IVA incluido de 116.00 es 16.00)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="402" height="429" alt="image" src="https://github.com/user-attachments/assets/41e0111a-5d42-445c-ad8f-872d38ce7532" />
 
 ## Pruebas de servicios (22) · test/servicios_test.dart
 
@@ -34,11 +34,11 @@ Pruebas: pasarela simulada e idempotencia, checkout (compra exitosa, rechazo sin
 
 ### Éxito (todas en verde)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="396" height="449" alt="image" src="https://github.com/user-attachments/assets/7b283cd7-32ee-46fd-b51c-133d9dee02ee" />
 
 ### Fallo (IDEMPOTENCIA: misma clave dos veces cobra una sola vez)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="400" height="452" alt="image" src="https://github.com/user-attachments/assets/e8fa972b-eb82-4dbc-b928-499706bd17ad" />
 
 ## Pruebas de ViewModels (14) · test/viewmodels_test.dart
 
@@ -46,30 +46,30 @@ Pruebas: catálogo con filtros y búsqueda, carrito que persiste y muestra error
 
 ### Éxito (todas en verde)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="401" height="414" alt="image" src="https://github.com/user-attachments/assets/b2d2197b-c621-4a29-ba7f-c517dfa24436" />
 
 ### Fallo (filtra por categoría, texto y AR combinados)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="401" height="416" alt="image" src="https://github.com/user-attachments/assets/338268f9-212e-40fc-a55f-a7e0af33daf6" />
 
 ## Todas las pruebas en verde (60)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="392" height="47" alt="image" src="https://github.com/user-attachments/assets/226eb2f5-4880-42f5-899b-5823f68a31f4" />
 
 ## Evidencia de la aplicación
 
 ### Catálogo
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30" src="https://github.com/user-attachments/assets/3e5b645b-c065-451f-b862-bb07a53744c1" />
 
 ### Ver en tu espacio (modelo 3D / realidad aumentada)
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30 (1)" src="https://github.com/user-attachments/assets/59b485dd-ed69-4957-aa0e-cb52ee6e2f76" />
 
 ### Carrito con cupón y envío
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30 (2)" src="https://github.com/user-attachments/assets/6de7eee6-1511-4e3a-9936-7054c49b0ace" />
 
 ### Pago exitoso
 
-<!-- PEGA AQUÍ LA CAPTURA -->
+<img width="317" height="800" alt="WhatsApp Image 2026-11-20 at 12 45 30 (3)" src="https://github.com/user-attachments/assets/bb182323-b7d4-4342-aab8-0895bc938fe3" />
